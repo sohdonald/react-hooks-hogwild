@@ -1,4 +1,6 @@
 import React from "react";
+import HogCard from "./HogCard";
+
 function HogList({ hogs }) {
   return (
     <div className="ui three stackable cards">
